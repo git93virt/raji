@@ -1,0 +1,23 @@
+ls 
+mkdir
+cat
+> stnout
+stdin
+2>stderr
+fdisk 
+lsblk
+blkid
+man 
+locate
+find
+whoami
+pwd
+who 
+w
+pinky
+last
+tail
+head
+df -h
+du -h
+
